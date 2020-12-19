@@ -519,12 +519,9 @@ namespace TestTemperament
 
         private void button5_Click(object sender, EventArgs e)//назад(процесс прохождения теста)
         {
-            if (radioButton1.Checked == true || radioButton2.Checked == true)
-            {
-                IfCheckedBack();
-                i--;
-                IfCount();
-            }
+            IfCheckedBack();
+            i--;
+            IfCount();
             radioButton1.Checked = false;
             radioButton2.Checked = false;
         }

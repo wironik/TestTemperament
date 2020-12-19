@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\bin\Release\TestTemperament.exe.config
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\bin\Release\TestTemperament.exe
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\bin\Release\TestTemperament.pdb
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.Form1.resources
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.exe
+C:\Users\Lenovo\Desktop\учеба\3 курс\Курсовая\TestTemperament\TestTemperament\obj\Release\TestTemperament.pdb
