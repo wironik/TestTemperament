@@ -216,6 +216,7 @@ namespace TestTemperament
                     panel2.Visible = false;
                     i = 0;
                     ResultTest();
+                    this.Update();
                     break;
                 default:
                     label2.Text = "Вопрос " + Convert.ToString(i + 1) + ": "+question[i];
