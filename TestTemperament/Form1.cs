@@ -569,6 +569,7 @@ namespace TestTemperament
         {
             panel3.Visible = true;
             panel4.Visible = false;
+            this.Update();
         }
 
         private void button10_Click(object sender, EventArgs e)//назад после просмотра информации
